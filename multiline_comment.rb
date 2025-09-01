@@ -1,0 +1,7 @@
+#! /usr/bin/ruby -w
+
+puts "Hello, Ruby!"
+
+=begin
+This is a multiline comment and con spwan as many line as you like. But - Begin and -end should come in the first line only.
+=end
